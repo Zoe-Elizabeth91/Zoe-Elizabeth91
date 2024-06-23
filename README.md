@@ -11,8 +11,9 @@ This is a repository to demonstrate my skills, share projects and record my prog
 
 # Table of contents 
 [About](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/README.md#about)
-- Python
-- [Analyzing the lenghts of penguins flippers and bills](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb)
+[Portfolio projects](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/README.md#portfolio-projects)
+  - Python
+    - [Analyzing the lenghts of penguins flippers and bills](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb)
 
 
 ## Portfolio projects
