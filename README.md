@@ -14,3 +14,5 @@ This is a repository to demonstrate my skills, share projects and record my prog
 - Python
 - [Analyzing the lenghts of penguins flippers and bills](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb)
 
+
+## Portfolio projects
