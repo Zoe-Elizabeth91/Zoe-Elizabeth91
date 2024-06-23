@@ -11,5 +11,5 @@ This is a repository to demonstrate my skills, share projects and record my prog
 
 # Table of contents 
 
-Penguins.ipynb
+https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb
 
