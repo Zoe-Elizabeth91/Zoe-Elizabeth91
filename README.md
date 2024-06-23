@@ -18,10 +18,12 @@ This is a repository to demonstrate my skills, share projects and record my prog
 
 • [Education](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/edit/main/README.md#education)
 
+• [Contact](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/edit/main/README.md#contact)
+
 ## Portfolio projects
 In this section I will list my data analytic projects and describe the technology used to solve the cases
 
-### Analyzing the lenghts of penguins flippers and bills
+### Analyzing the lengths of penguins flippers and bills
 **Code**: [`Penguins.ipynb`](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb)
 
 ## Education
@@ -32,3 +34,6 @@ October 2024 - 2026
 Manchester Metropolitan University:
 Bachelor of arts - BA, Tourism Management
 September 2013 - May 2016 
+
+## Contact
+• Email: zoe_mcnulty@hotmail.com
