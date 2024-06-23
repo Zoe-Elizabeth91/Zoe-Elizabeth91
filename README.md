@@ -11,6 +11,5 @@ This is a repository to demonstrate my skills, share projects and record my prog
 
 # Table of contents 
 
-### Penguins flipper and bill lengths
-https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/a641d21580df0d3c101ecad47e11d2574738e5d1/Penguins.ipynb
-
+#### Penguins flipper and bill lengths
+https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb
