@@ -26,8 +26,18 @@ In this section I will list my data analytic projects and describe the technolog
 ### Analyzing the lengths of penguins flippers and bills
 **Code**: [`Penguins.ipynb`](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb)
 
+**Goal**: To determine the length of a penguins flipper and bill.
+
+**Description**: The project focused on analyzing the bill and flipper lengths of three different species of penguins.
+
+**Skills**: scatterplot, grid colour, grid background.
+
+**Technology**: Python, Pandas and Seaborn.
+
+**Results**: Using the python functions the analysis found that that the penguin species 'Gentoo' had the biggest flipper and bill length.
+
 ## Education
-The open university United Kingdom:
+The Open University United Kingdom:
 Master of science - MS, Economics
 October 2024 - 2026
 
