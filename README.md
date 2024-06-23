@@ -10,9 +10,6 @@ In my free time, I like to discover any new data analysis techniques, as I am al
 This is a repository to demonstrate my skills, share projects and record my progress in data analytics.
 
 # Table of contents 
-
-• Portfolio projects
-
-◦Python
+-[About](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/README.md#about)
 #### Penguins flipper and bill lengths
 https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb
