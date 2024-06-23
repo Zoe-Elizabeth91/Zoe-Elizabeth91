@@ -10,10 +10,25 @@ In my free time, I like to discover any new data analysis techniques, as I am al
 This is a repository to demonstrate my skills, share projects and record my progress in data analytics.
 
 # Table of contents 
-[About](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/README.md#about)
-[Portfolio projects](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/README.md#portfolio-projects)
+• [About](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/README.md#about)
+
+• [Portfolio projects](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the lenghts of penguins flippers and bills](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb)
 
+• [Education](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/edit/main/README.md#education)
 
 ## Portfolio projects
+In this section I will list my data analytic projects and describe the technology used to solve the cases
+
+### Analyzing the lenghts of penguins flippers and bills
+**Code**: [`Penguins.ipynb`](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb)
+
+## Education
+The open university United Kingdom:
+Master of science - MS, Economics
+October 2024 - 2026
+
+Manchester Metropolitan University:
+Bachelor of arts - BA, Tourism Management
+September 2013 - May 2016 
