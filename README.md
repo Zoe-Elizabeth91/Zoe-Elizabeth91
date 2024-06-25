@@ -18,7 +18,7 @@ This is a repository to demonstrate my skills, share projects and record my prog
 
 • [Education](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91#education)
 
-• [Contact](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/edit/main/README.md#contact)
+• [Contact](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91#contact)
 
 ## Portfolio projects
 In this section I will list my data analytic projects and describe the technology used to solve the cases
