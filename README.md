@@ -26,7 +26,7 @@ In this section I will list my data analytic projects and describe the technolog
 ### Analyzing the lengths of penguins flippers and bills
 **Code**: [`Penguins.ipynb`](https://github.com/Zoe-Elizabeth91/Zoe-Elizabeth91/blob/main/Penguins.ipynb)
 
-**Goal**: To determine the length of a penguins flipper and bill.
+**Goal**: To determine which species of penguin has the longest flipper and bill length.
 
 **Description**: The project focused on analyzing the bill and flipper lengths of three different species of penguins.
 
